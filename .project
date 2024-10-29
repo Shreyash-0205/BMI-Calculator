@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>BMI_CALCULATOR</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Icons/bmisplash.png</name>
+			<type>1</type>
+			<location>
+				C:/Users/Ajay/eclipse-workspace/BMI_CALCULATOR/src/Icons/bmisplash.png</location>
+		</link>
+		<link>
+			<name>src/Icons/front.jpg</name>
+			<type>1</type>
+			<location>
+				C:/Users/Ajay/eclipse-workspace/BMI_CALCULATOR/src/Icons/front.jpg</location>
+		</link>
+		<link>
+			<name>src/Icons/login_image.jpg</name>
+			<type>1</type>
+			<location>
+				C:/Users/Ajay/eclipse-workspace/BMI_CALCULATOR/src/Icons/login_image.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>
